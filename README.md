@@ -1,4 +1,4 @@
-# 1.0-Machine-Learning-Coursera-Stanford-Online-_AndrewNG
+# 1.0-Machine Learning_Coursera-Stanford Online_AndrewNG
 
 The Lecture folder contains all the Lectures in PDF format
 
